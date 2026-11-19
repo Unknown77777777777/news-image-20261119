@@ -1,3 +1,6 @@
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/Unknown77777777777/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard)
+[![reward](https://make.fun/badge/news-image-20261119/Unknown77777777777/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119)
 # Sum up 19 November's world news in one image
 
 Entry for make.fun competition `news-image-20261119` — "Sum up 19 November's world news in one image".
